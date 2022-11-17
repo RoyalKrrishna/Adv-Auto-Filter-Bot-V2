@@ -68,7 +68,7 @@ OR
 ## Deploy
 You can deploy this bot anywhere.
 
-<i>**[Watch Deploying Tutorial...](https://youtu.be/KTearEPhumc)**</i>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/RoyalKrrishna/Adv-Auto-Filter-Bot-V2)
 
 <details><summary>Deploy To Heroku</summary>
 <p>
